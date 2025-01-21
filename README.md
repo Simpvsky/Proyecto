@@ -41,3 +41,12 @@ Para la creacion de este proyecto se uso lo siguiente:
 
 - [ ]  Docker (Version 24.x (Docker Desktop or Docker Engine)
 - [ ]  Docker compose (Version 2.20.0)
+
+#Instalación de DOCKER
+
+- [ ] Para este proyecto se necesita tener el docker desktop instalado, puedes facilmente instalar docker desde la pagina oficial del mismo: https://www.docker.com/products/docker-desktop/.
+
+#Instalacion de PostgreSQL 
+
+- [ ] Se necesita tener instalado PostgreSQL para la instalación de este proyecto debido a que aqui se maneja la base de datos, al igual que Docker Destop, este mismo se puede instalar desde su pagina oficial: https://www.postgresql.org.
+
